@@ -7,8 +7,8 @@ import (
 	"log"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/olich538/fulltimegodev/hotel-reservation/api"
-	"github.com/olich538/fulltimegodev/hotel-reservation/db"
+	"github.com/olich538/hotel-reservation/api"
+	"github.com/olich538/hotel-reservation/db"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
